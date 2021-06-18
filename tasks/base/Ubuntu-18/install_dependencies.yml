@@ -11,3 +11,4 @@
   vars:
     packages:
     - xfsprogs
+    - conntrack
